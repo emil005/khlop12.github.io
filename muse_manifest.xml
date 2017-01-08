@@ -1,0 +1,62 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="khlop.com" resolutions="1x" timestamp="1483879402458">
+  <folder name="css">
+    <file name="site_global.css" crc="4007676325"/>
+    <file name="index.css" crc="509886019" ref="index"/>
+    <file name="iefonts_index.css" crc="244636451" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="form-u819.php" crc="3861997109" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index"/>
+    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
+    <file name="отз.jpg" crc="3893270739" ref="index"/>
+    <file name="от.jpg" crc="3961135975" ref="index"/>
+    <file name="отзй.jpg" crc="218598973" ref="index"/>
+    <file name="ф4-u146-fr.png" crc="93467586" ref="index"/>
+    <file name="ecological-lightbulb.png" crc="57441578" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u192-16.png" crc="4069826343" ref="index"/>
+    <file name="фон1.jpg" crc="4219566962" ref="index"/>
+    <file name="отзй-ieu243-fr.png" crc="478357236" ref="index"/>
+    <file name="u591-4.png" crc="4124315781" ref="index"/>
+    <file name="u597-6.png" crc="3905366267" ref="index"/>
+    <file name="u588-6.png" crc="197172558" ref="index"/>
+    <file name="icons2.svg" crc="3773190141" ref="index"/>
+    <file name="icons2_poster_u503.png" crc="4265598472" ref="index"/>
+    <file name="вставленные-svg-140784x114.svg" crc="4146492718" seo="true" ref="index"/>
+    <file name="вставленные svg 140784x114_poster_.png" crc="126453313" ref="index"/>
+    <file name="вставленные-svg-125223x125.svg" crc="27940577" seo="true" ref="index"/>
+    <file name="вставленные svg 125223x125_poster_.png" crc="200378601" ref="index"/>
+    <file name="вставленные-svg-12514x109.svg" crc="4074163366" seo="true" ref="index"/>
+    <file name="вставленные svg 12514x109_poster_.png" crc="4290106254" ref="index"/>
+    <file name="вставленные-svg-126283x96.svg" crc="3890532693" seo="true" ref="index"/>
+    <file name="вставленные svg 126283x96_poster_.png" crc="269171679" ref="index"/>
+    <file name="вставленные-svg-146x114.svg" crc="531309216" seo="true" ref="index"/>
+    <file name="вставленные svg 146x114_poster_.png" crc="3972892728" ref="index"/>
+    <file name="вставленные-svg-11471x114.svg" crc="366434712" seo="true" ref="index"/>
+    <file name="вставленные svg 11471x114_poster_.png" crc="4091285871" ref="index"/>
+    <file name="вставленные-svg-83428x125.svg" crc="4208945279" seo="true" ref="index"/>
+    <file name="вставленные svg 83428x125_poster_.png" crc="6677921" ref="index"/>
+    <file name="u821-17.png" crc="4135991492" ref="index"/>
+    <file name="u821-17-r.png" crc="302369690" ref="index"/>
+    <file name="u821-17-m.png" crc="302369690" ref="index"/>
+    <file name="u821-17-fs.png" crc="4135991492" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4058489561" seo="true" mt="1483879344560" redirect="true"/>
+</manifest>
